@@ -1,0 +1,1 @@
+In this project, I practice flexbox concept and everything else that I have learnt about HTML and CSS by designing a landing page! I am excited to start now!
